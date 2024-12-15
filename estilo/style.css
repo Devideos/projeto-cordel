@@ -93,6 +93,7 @@ section#img2 {
 section > p {
     padding-bottom: 2em;
     font-size: 25px;
+    line-height: 2em; /*altura entre linhas*/
 }
 
 footer {
