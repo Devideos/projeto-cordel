@@ -30,7 +30,7 @@ header {
 header > h1 {
     padding-top: 50px;
     font-family: var(--fonte2);
-    font-size: 7vw;
+    font-size: 8vw;
 
     /*text-transform: uppercase; 
     passa o h1 para maiusculo*/
@@ -92,6 +92,7 @@ section#img2 {
 
 section > p {
     padding-bottom: 2em;
+    font-size: 25px;
 }
 
 footer {
